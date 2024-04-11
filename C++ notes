@@ -1,0 +1,44 @@
+#Use this file for taking notes for c++ to hopefully apply later. 
+
+#C++ code is normally stored in files. 
+  there a are three types of files. 
+  -ofstream: (“output file stream”): Create files and write to files.
+
+  -ifstream: (“input file stream”): Read from files.
+
+  -fstream: A combination of ofstream and ifstream (create, read, and write to files).
+
+
+#printing stuff
+std::cout is the “character output stream”. It is pronounced “see-out”.
+/n is making a new line. You don't have to include it if you want to print it out on the same line. 
+
+#Operators
+-Arithmetic Operators
+Arithmetic operators can be used to perform common mathematical operations:
++ addition
+- subtraction
+* multiplication
+/ division
+% modulo (yields the remainder)
+
+-Relational Operators
+Relational operators can be used to compare two values and return true or false depending on the comparison:
+== equal to
+!= not equal to
+> greater than
+< less than
+>= greater than or equal to
+<= less than or equal to
+
+-Logical Operators
+Logical operators can be used to combine two different conditions.
+&& requires both to be true (and)
+|| requires either to be true (or)
+! negates the result (not)
+
+#printing stuff
+std::cout is the “character output stream”. It is pronounced “see-out”.
+<< is an operator that comes right after it.
+"Hello World!\n" is what’s being outputted here. You need double quotes around text. The \n is a special character that indicates a new line.
+; is a punctuation that tells the computer that you are at the end of a statement. It is similar to a period in a sentence.
