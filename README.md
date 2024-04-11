@@ -1,3 +1,4 @@
-#I have no idea what I want to do for my quater 4 project. 
-#I'm hoping to make a video game maybe learning a new language. 
-#Maybe work with someone else to make the game. 
+Me and Harrison are going to work on making a game together
+We both enjoy playing first person shooters, so that is what we are going to make
+We are going to be learning C++ to make the shooter.
+Still unsure on what we are going to do. 
