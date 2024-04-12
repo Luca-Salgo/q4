@@ -1,6 +1,8 @@
 #Use this file for taking notes for c++ to hopefully apply later. 
 
-#C++ code is normally stored in files. 
+
+#C++ code is normally stored in files.
+include <iostream> is a header file library that lets us work with input and output objects, such as cout (used in line 5). Header files add functionality to C++ programs.
   there a are three types of files. 
   -ofstream: (“output file stream”): Create files and write to files.
 
@@ -8,10 +10,49 @@
 
   -fstream: A combination of ofstream and ifstream (create, read, and write to files).
 
+#functions
+-start functions with "int" and what you want to define it with. Then you add "()". You start the function with "{" and end it with "}".
+-use "return 0;" to end the main function
+ex:
+int main(){
+
+  cout << "Hello World!";
+  return 0;
+}
+
 
 #printing stuff
-std::cout is the “character output stream”. It is pronounced “see-out”.
-/n is making a new line. You don't have to include it if you want to print it out on the same line. 
+"std::cout" or just "cout" is the “character output stream”. It is pronounced “see-out”.
+/n is making a new line. You don't have to include it if you want to print it out on the same line. You can use /n more than once. 
+use << to output text
+end the statement using a semicolon (;).
+  -other examples ways of using it:
+  \t	Creates a horizontal tab	
+  \\	Inserts a backslash character (\)	
+  \"	Inserts a double quote character	
+to make a comment (doesn't do anything), you do "//".
+to do a muti-line comment, you do "/*" and end it with "*/". Anything in between does nothing 
+
+ex:
+int main() {
+  cout << "Hello World!";
+  return 0;
+//This does nothing 
+}
+
+#Variables
+-int - stores integers (whole numbers), without decimals, such as 123 or -123
+-double - stores floating point numbers, with decimals, such as 19.99 or -19.99
+  like "float" from python
+-char - stores single characters, such as 'a' or 'B'. Char values are surrounded by single quotes
+-string - stores text, such as "Hello World". String values are surrounded by double quotes
+-bool - stores values with two states: true or false
+how to use: https://www.w3schools.com/cpp/cpp_variables.asp
+Constants = a variable that cannot be changed. If you try, it would print an error. 
+
+#User inputs
+
+
 
 #Operators
 -Arithmetic Operators
