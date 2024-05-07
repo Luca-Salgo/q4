@@ -11,3 +11,8 @@ Using unity game engine
 5/1/24: I HATE UNITY AND EVERYTHING ABOUT IT. Me and Harrison tried to figure out how to share our project but weren't able to figure it out. 
 
 5/2/24: We tried everything but weren't able to figure out how to share the project with each other. 
+
+5/6/24: I was out sick. Did not do anything. 
+
+5/7/24: Me and Harrison decided to not work together on our Unity project. I decided to change languages to C# because it is close to c++            and easier to use in unity. 
+        
