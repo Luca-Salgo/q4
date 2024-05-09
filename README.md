@@ -16,5 +16,5 @@ Using unity game engine
 
 5/7/24: Me and Harrison decided to not work together on our Unity project. I decided to change languages to C# because it is close to c++            and easier to use in unity. 
 
-5/8/24:
+5/8/24: Learned more C#
         
