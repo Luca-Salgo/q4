@@ -18,4 +18,4 @@ Using unity game engine
 
 5/8/24: Learned more C#
         
-5/9/24: More C#. After tomorrow, I will be able to put way more work onto the project. I will work on it at home. I am very excited. 
+5/9/24: More learning C#. After tomorrow, I will be able to put way more work onto the project. I will work on it at home. I am very excited. 
