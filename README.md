@@ -19,3 +19,5 @@ Using unity game engine
 5/8/24: Learned more C#
         
 5/9/24: More learning C#. After tomorrow, I will be able to put way more work onto the project. I will work on it at home. I am very excited. 
+
+5/15/24: Learned more C# when in unity. Getting a deeper understanding of how to implement code to objects in unity. 
