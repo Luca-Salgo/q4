@@ -23,3 +23,5 @@ Using unity game engine
 5/15/24: Learned more C# when in unity. Getting a deeper understanding of how to implement code to objects in unity. 
 
 5/21/24: I have looking and moving down. Working on jumping.
+
+5/24/24: finished with jumping. Working on basic shooting mechanics. After that, I'm going to work on dashing and sliding. 
