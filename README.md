@@ -27,3 +27,5 @@ Using unity game engine
 5/24/24: finished with jumping. Working on basic shooting mechanics. After that, I'm going to work on dashing and sliding. 
 
 5/31/24: Learned Unity's Ui system. Started learning animations.
+
+6/3/24: Started working on the slides. 
