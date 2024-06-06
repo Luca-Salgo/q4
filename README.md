@@ -29,3 +29,5 @@ Using unity game engine
 5/31/24: Learned Unity's Ui system. Started learning animations.
 
 6/3/24: Started working on the slides. 
+
+6/5/24: Created a shooting script with targets that spawn when you right click. It's like an aim trainer. 
