@@ -30,4 +30,4 @@ Using unity game engine
 
 6/3/24: Started working on the slides. 
 
-6/5/24: Created a shooting script with targets that spawn when you right click. It's like an aim trainer. 
+6/5/24: Created a shooting script with targets that spawn when you right click. It's like an aim trainer. Removed dashing because I couldn't find a reason to keep it. I also added sprinting because it seemed really easy. 
